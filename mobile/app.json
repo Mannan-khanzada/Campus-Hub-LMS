@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "CampusHub",
+    "slug": "campushub-lms",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#16213E" },
+    "android": { "package": "edu.college.campushub" },
+    "ios": { "bundleIdentifier": "edu.college.campushub" }
+  }
+}
